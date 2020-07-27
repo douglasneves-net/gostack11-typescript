@@ -7,5 +7,6 @@ export function helloWorld(request: Request, response: Response) {
     password: '123456',
     techs: ['Node.js', 'ReactJS', 'ReactNative', { title: 'Javascript', experience: 100 }],
   });
-  return response.json({ message: "hello World" });
+  return response.json(user);
+
 }

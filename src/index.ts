@@ -3,9 +3,6 @@ import { helloWorld } from './routes';
 
 const app = express();
 
-
-app.get('/', (request, response) => {
-  return response.json({ message: 'Hellow World' });
-});
+app.get('/', helloWorld);
 
 app.listen(3333);
