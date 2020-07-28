@@ -1,7 +1,7 @@
 ## :computer: Projeto
 <p>Projeto do zero utilizando o TypeScript, esse projeto foi utilizado para entender o TypeScript na pratica.</p>
 <p>Link do Projeto: https://www.douglasneves.net/projetos/25-gostack11-noje-js-reactjs-e-react-native/49-typescript</p>
-<p>Link do Resumo sobre ReactJS: https://www.douglasneves.net/resumos/14-gostack11/26-typescript</p>
+<p>Link do Resumo: https://www.douglasneves.net/resumos/14-gostack11/26-typescript</p>
 
 ## :rocket: Tecnologias
 - TypeScript
